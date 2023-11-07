@@ -25,4 +25,26 @@ public class BlogPostController {
     public BlogPost postBlogPosts(@RequestBody BlogPost blogpost) {
         return bpService.save(blogpost);
     }
+
+    @GetMapping("/{id}")
+    @ResponseStatus(HttpStatus.FOUND)
+    public BlogPost getBlogPostById(@PathVariable int id) {
+        try {
+            return bpService.findById(id);
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
+    @PutMapping("/{id}")
+    public BlogPost findByIdAndUpdate(@PathVariable int id, @RequestBody BlogPost blogpost) {
+        return bpService.findByIdAndUpdate(id, blogpost);
+    }
+
+    @DeleteMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void findByIdAndDelete(@PathVariable int id) {
+        bpService.findByIdAndDelete(id);
+    }
+
 }

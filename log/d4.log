@@ -212,3 +212,87 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.add(Object)" becau
 2023-11-07T15:29:47.304+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
 2023-11-07T15:29:47.304+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
 2023-11-07T15:29:47.419+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.127 seconds (process running for 389.866)
+2023-11-07T15:32:15.506+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:32:15.506+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:32:15.506+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:32:15.628+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.134 seconds (process running for 538.075)
+2023-11-07T15:34:04.692+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:34:04.692+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:34:04.692+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:34:04.818+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.14 seconds (process running for 647.265)
+2023-11-07T15:34:47.767+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:34:47.767+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:34:47.767+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:34:47.898+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.146 seconds (process running for 690.345)
+2023-11-07T15:36:03.472+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:36:03.473+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:36:03.473+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:36:03.617+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.157 seconds (process running for 766.064)
+2023-11-07T15:36:30.130+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:36:30.130+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:36:30.130+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:36:30.242+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.123 seconds (process running for 792.689)
+2023-11-07T15:37:04.774+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:37:04.774+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:37:04.774+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:37:04.879+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.117 seconds (process running for 827.326)
+2023-11-07T15:37:40.381+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:37:40.381+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:37:40.381+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:37:40.514+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.148 seconds (process running for 862.961)
+2023-11-07T15:38:38.057+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:38:38.057+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:38:38.057+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:38:38.217+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.175 seconds (process running for 920.664)
+2023-11-07T15:38:39.753+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:38:39.753+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:38:39.754+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:38:39.869+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.132 seconds (process running for 922.316)
+2023-11-07T15:41:12.566+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:41:12.566+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:41:12.566+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:41:12.729+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.175 seconds (process running for 1075.176)
+2023-11-07T15:41:14.177+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:41:14.177+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:41:14.177+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:41:14.332+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.172 seconds (process running for 1076.779)
+2023-11-07T15:43:33.374+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:43:33.374+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:43:33.374+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:43:33.487+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.124 seconds (process running for 1215.934)
+2023-11-07T15:44:11.991+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:44:11.991+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:44:11.992+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:44:12.134+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.154 seconds (process running for 1254.581)
+2023-11-07T15:44:13.612+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:44:13.612+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:44:13.613+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:44:13.739+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.146 seconds (process running for 1256.186)
+2023-11-07T15:46:33.407+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:46:33.407+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:46:33.407+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:46:33.542+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.148 seconds (process running for 1395.989)
+2023-11-07T15:46:43.008+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:46:43.008+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:46:43.008+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:46:43.128+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.132 seconds (process running for 1405.575)
+2023-11-07T15:48:52.744+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:48:52.744+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:48:52.744+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:48:52.884+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.151 seconds (process running for 1535.331)
+2023-11-07T15:48:54.347+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:48:54.348+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:48:54.348+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:48:54.461+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.127 seconds (process running for 1536.908)
+2023-11-07T15:52:02.216+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:52:02.216+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:52:02.216+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:52:02.350+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.151 seconds (process running for 1724.797)
+2023-11-07T15:52:03.808+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 42197 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:52:03.809+01:00 DEBUG 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:52:03.809+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:52:03.910+01:00  INFO 42197 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 0.114 seconds (process running for 1726.357)
+2023-11-07T15:57:17.130+01:00  INFO 71582 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 71582 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T15:57:17.131+01:00 DEBUG 71582 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T15:57:17.133+01:00  INFO 71582 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T15:57:18.729+01:00  INFO 71582 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 2.093 seconds (process running for 2.514)

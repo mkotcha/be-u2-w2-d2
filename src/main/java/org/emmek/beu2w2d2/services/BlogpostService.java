@@ -25,7 +25,6 @@ public class BlogpostService {
     }
 
     public BlogPost findById(int id) throws NotFoundException {
-        BlogPost blogpost = null;
         for (BlogPost bp : blogposts) {
             if (bp.getId() == id) {
                 return bp;
@@ -41,10 +40,11 @@ public class BlogpostService {
     public BlogPost findByIdAndUpdate(int id, BlogPost blogpost) throws NotFoundException {
         for (BlogPost bp : blogposts) {
             if (bp.getId() == id) {
-                return bp;
+                return bp = blogpost;
             }
         }
         throw new NotFoundException(id);
     }
+
 
 }
