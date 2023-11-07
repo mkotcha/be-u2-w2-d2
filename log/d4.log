@@ -1,0 +1,21 @@
+2023-11-07T11:44:09.397+01:00  INFO 98128 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 98128 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T11:44:09.399+01:00 DEBUG 98128 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T11:44:09.400+01:00  INFO 98128 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T11:44:11.569+01:00  INFO 98128 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 2.824 seconds (process running for 3.456)
+2023-11-07T11:45:04.109+01:00  INFO 98860 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 98860 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T11:45:04.110+01:00 DEBUG 98860 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T11:45:04.112+01:00  INFO 98860 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T11:45:05.883+01:00  INFO 98860 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 2.322 seconds (process running for 2.822)
+2023-11-07T11:46:07.575+01:00  INFO 99592 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Starting BeU2W2D2Application using Java 20.0.2 with PID 99592 (/home/kutch/IdeaProjects/be-u2-w2-d2/target/classes started by kutch in /home/kutch/IdeaProjects/be-u2-w2-d2)
+2023-11-07T11:46:07.577+01:00 DEBUG 99592 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Running with Spring Boot v3.1.5, Spring v6.0.13
+2023-11-07T11:46:07.578+01:00  INFO 99592 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : The following 1 profile is active: "dev"
+2023-11-07T11:46:07.658+01:00  INFO 99592 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-07T11:46:07.659+01:00  INFO 99592 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-07T11:46:08.815+01:00  INFO 99592 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-07T11:46:08.825+01:00  INFO 99592 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-07T11:46:08.825+01:00  INFO 99592 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.15]
+2023-11-07T11:46:08.866+01:00  INFO 99592 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-07T11:46:08.867+01:00  INFO 99592 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1207 ms
+2023-11-07T11:46:09.292+01:00  INFO 99592 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-11-07T11:46:09.329+01:00  INFO 99592 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-11-07T11:46:09.340+01:00  INFO 99592 --- [restartedMain] org.emmek.beu2w2d2.BeU2W2D2Application   : Started BeU2W2D2Application in 2.31 seconds (process running for 2.84)
