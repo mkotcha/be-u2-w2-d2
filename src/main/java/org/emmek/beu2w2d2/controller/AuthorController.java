@@ -1,5 +1,6 @@
 package org.emmek.beu2w2d2.controller;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import org.emmek.beu2w2d2.entities.Author;
 import org.emmek.beu2w2d2.services.AuthorService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,8 +21,10 @@ public class AuthorController {
         return authorService.getAuthors();
     }
 
+
     @PostMapping("")
     @ResponseStatus(HttpStatus.CREATED)
+    @JsonFormat(pattern = "dd/MM/YYYY")
     public Author postAuthors(@RequestBody Author author) {
         return authorService.save(author);
     }
