@@ -14,7 +14,6 @@ public class BlogpostService {
 
     public BlogPost save(BlogPost blogpost) {
         Random rnd = new Random();
-        System.out.println(blogpost);
         blogpost.setId(rnd.nextInt(1, 1000));
         blogposts.add(blogpost);
         return blogpost;
